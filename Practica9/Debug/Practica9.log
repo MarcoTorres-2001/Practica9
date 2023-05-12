@@ -1,0 +1,29 @@
+﻿  iluminacion2.cpp
+G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Practica9\iluminacion2.cpp(188,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Practica9\iluminacion2.cpp(223,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Practica9\iluminacion2.cpp(224,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Practica9\iluminacion2.cpp(225,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Practica9\iluminacion2.cpp(462,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Practica9\iluminacion2.cpp(463,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Practica9\iluminacion2.cpp(467,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Practica9\iluminacion2.cpp(468,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Practica9\iluminacion2.cpp(470,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Practica9\iluminacion2.cpp(471,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at 'G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Debug\soil2-debug.pdb'; linking object as if no debug info
+  Practica9.vcxproj -> G:\Escolar\8voSemestre\Computacion Gráfica\Laboratorio\Practica9.2\Debug\Practica9.exe
